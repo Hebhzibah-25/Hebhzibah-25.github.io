@@ -1,26 +1,28 @@
 # About me
  I am a self-motivate, hard-working and dedicated individual seeking for a job.
 # Educational Qualifications
-  :-Secondary education
+  Secondary education
   
-    :-G.C.E A/L    
-      Biology - B
-      Chemistry - A
-      Physics - S
+    G.C.E A/L    
+     Biology - B
+     Chemistry - A
+     Physics - S
       
-    :-G.C.E O/L
-      3A 4B 2C
+    G.C.E O/L
+     3A 4B 2C
       
-  :-Higher education
+  Higher education
 
-     :-BSc (Hons) in Biotechnology
+     BSc (Hons) in Biotechnology
+# Work experience
 
-#Work experience
- None
+    None
 
-#Other Professional Qualifications
- None
+# Other Professional Qualifications
+
+    None
  
-#Projects you worked on related to your careers
- None
+# Projects you worked on related to your careers
+
+    None
 
