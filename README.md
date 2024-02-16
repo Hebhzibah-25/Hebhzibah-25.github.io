@@ -1,8 +1,9 @@
 # About me
- I am a Self-motivate, hard-working and dedicated individual seeking for a job.
+ I am a self-motivate, hard-working and dedicated individual seeking for a job.
 # Educational Qualifications
   :-Secondary education
-    1.G.C.E A/L 
+  
+    1.G.C.E A/L
       Biology - B
       Chemistry - A
       Physics - S
