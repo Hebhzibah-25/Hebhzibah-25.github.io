@@ -1,2 +1,3 @@
 # About me
--selfmotivated
+ I am a Self-motivate, hard-working and dedicated individual seeking for a job.
+
