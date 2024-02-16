@@ -3,12 +3,14 @@
 # Educational Qualifications
   :-Secondary education
   
-    1.G.C.E A/L
+    :-G.C.E A/L    
       Biology - B
       Chemistry - A
       Physics - S
-    2.G.C.E O/L
+      
+    :-G.C.E O/L
       
   :-Higher education
-    1.
+
+     :-BSc (Hons) in Biotechnology
 
