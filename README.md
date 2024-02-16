@@ -9,8 +9,18 @@
       Physics - S
       
     :-G.C.E O/L
+      3A 4B 2C
       
   :-Higher education
 
      :-BSc (Hons) in Biotechnology
+
+#Work experience
+ None
+
+#Other Professional Qualifications
+ None
+ 
+#Projects you worked on related to your careers
+ None
 
