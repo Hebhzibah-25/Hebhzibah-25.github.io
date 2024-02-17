@@ -20,7 +20,9 @@
 # Work experience 👩‍💼
 
   Research Assistant at Lanka Hospital Sri Lanka
+  
   Assistant lecturer at the Sri Lanka Institute of Information Technology
+  
   Assistant lecturer at the University of Jeyawardanapura
 
 # Other Professional Qualifications 📑
