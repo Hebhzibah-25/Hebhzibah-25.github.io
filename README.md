@@ -41,9 +41,15 @@
    1. Reading books and articles
    2. playing music instruments
    3. yoga
+
+# My resume 📄
     
     
-    
+# Contact details
+
+   Email:- hebhzisolaman@gmail   
+   Mobile number:- 0774716473
+
     
 
    
