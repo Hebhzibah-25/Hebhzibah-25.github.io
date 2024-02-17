@@ -45,7 +45,7 @@
 
 # My resume 📄
 
-   https://github.com/Hebhzibah-25/Hebhzibah-25.github.io/blob/main/Resume.pdf
+   [your Link Here](https://github.com/Hebhzibah-25/Hebhzibah-25.github.io/blob/main/Resume.pdf)
     
 # Contact details
 
