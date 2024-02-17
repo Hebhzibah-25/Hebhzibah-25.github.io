@@ -18,11 +18,11 @@
    Msc (Hons) in Biochemistry
      
 # Work experience 👩‍💼
-
+  (2025-2027)
   Research Assistant at Lanka Hospital Sri Lanka
-  
+  (2027-2029)
   Assistant lecturer at the Sri Lanka Institute of Information Technology
-  
+  (2029-present)
   Assistant lecturer at the University of Jeyawardanapura
 
 # Other Professional Qualifications 📑
