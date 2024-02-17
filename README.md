@@ -1,4 +1,3 @@
-# Hebhzibah
 # About me 👩
  I am a self-motivate, hard-working and dedicated individual seeking for a job.
 # Educational Qualifications 📖
